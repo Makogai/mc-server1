@@ -1,0 +1,91 @@
+[16:00:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:00:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:00:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:00:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:00:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:00:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:00:23] [main/INFO]: Reloading ResourceManager: Default
+[16:00:24] [Worker-Main-11/INFO]: Loaded 7 recipes
+[16:00:25] [Worker-Main-11/INFO]: Loaded 927 advancements
+[16:00:31] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[16:00:31] [Server thread/INFO]: Loading properties
+[16:00:31] [Server thread/INFO]: Default game type: SURVIVAL
+[16:00:31] [Server thread/INFO]: Generating keypair
+[16:00:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:00:31] [Server thread/INFO]: Using default channel type
+[16:00:35] [Server thread/INFO]: Preparing level "world"
+[16:00:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:41] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:42] [Server thread/INFO]: Preparing spawn area: 0%
+[16:00:42] [Server thread/INFO]: Preparing spawn area: 45%
+[16:00:56] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-18/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-18/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-18/INFO]: Preparing spawn area: 83%
+[16:00:56] [Server thread/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-18/INFO]: Preparing spawn area: 83%
+[16:00:56] [Server thread/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-18/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-18/INFO]: Preparing spawn area: 83%
+[16:00:56] [Server thread/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-18/INFO]: Preparing spawn area: 83%
+[16:00:56] [Server thread/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[16:00:56] [Server thread/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[16:00:56] [Server thread/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[16:00:56] [Server thread/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[16:00:56] [Server thread/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[16:00:56] [Server thread/INFO]: Preparing spawn area: 83%
+[16:00:56] [Server thread/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[16:00:56] [Server thread/INFO]: Preparing spawn area: 83%
+[16:00:56] [Worker-Main-18/INFO]: Preparing spawn area: 86%
+[16:00:57] [Worker-Main-10/INFO]: Preparing spawn area: 87%
+[16:00:57] [Worker-Main-12/INFO]: Preparing spawn area: 87%
+[16:00:58] [Worker-Main-18/INFO]: Preparing spawn area: 87%
+[16:00:58] [Worker-Main-10/INFO]: Preparing spawn area: 87%
+[16:00:59] [Worker-Main-9/INFO]: Preparing spawn area: 87%
+[16:00:59] [Worker-Main-13/INFO]: Preparing spawn area: 87%
+[16:01:00] [Worker-Main-17/INFO]: Preparing spawn area: 87%
+[16:01:00] [Worker-Main-18/INFO]: Preparing spawn area: 87%
+[16:01:01] [Worker-Main-9/INFO]: Preparing spawn area: 87%
+[16:01:01] [Server thread/INFO]: Preparing spawn area: 87%
+[16:01:02] [Worker-Main-13/INFO]: Preparing spawn area: 87%
+[16:01:02] [Worker-Main-13/INFO]: Preparing spawn area: 87%
+[16:01:03] [Worker-Main-12/INFO]: Preparing spawn area: 87%
+[16:01:03] [Worker-Main-13/INFO]: Preparing spawn area: 87%
+[16:01:04] [Worker-Main-17/INFO]: Preparing spawn area: 87%
+[16:01:04] [Worker-Main-12/INFO]: Preparing spawn area: 87%
+[16:01:05] [Worker-Main-9/INFO]: Preparing spawn area: 88%
+[16:01:05] [Worker-Main-8/INFO]: Preparing spawn area: 89%
+[16:01:06] [Worker-Main-17/INFO]: Preparing spawn area: 91%
+[16:01:07] [Server thread/INFO]: Preparing spawn area: 91%
+[16:01:07] [Server thread/INFO]: Preparing spawn area: 91%
+[16:01:08] [Server thread/INFO]: Preparing spawn area: 95%
+[16:01:08] [Server thread/INFO]: Preparing spawn area: 95%
+[16:01:08] [Server thread/INFO]: Time elapsed: 32972 ms
+[16:01:08] [Server thread/INFO]: Done (33.149s)! For help, type "help"
+[16:02:20] [User Authenticator #1/INFO]: UUID of player MareGaming is d85e3b98-80a8-4a52-aef0-d9d8014d5045
+[16:02:20] [Server thread/INFO]: MareGaming[/0:0:0:0:0:0:0:1:50833] logged in with entity id 218 at (-20.917833137243242, 71.0, -191.43324853801386)
+[16:02:20] [Server thread/INFO]: MareGaming joined the game
+[16:03:34] [User Authenticator #2/INFO]: UUID of player PhilipSGamer is acf6b645-8310-432b-97b5-31bde6dac867
+[16:03:34] [Server thread/INFO]: PhilipSGamer[/0:0:0:0:0:0:0:1:50854] logged in with entity id 554 at (-29.5, 68.0, -235.5)
+[16:03:34] [Server thread/INFO]: PhilipSGamer joined the game

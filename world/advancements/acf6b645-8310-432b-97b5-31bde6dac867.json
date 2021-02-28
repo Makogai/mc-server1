@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-02-28 16:03:59 +0100",
+      "minecraft:beach": "2021-02-28 16:04:02 +0100",
+      "minecraft:wooded_hills": "2021-02-28 16:03:35 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
